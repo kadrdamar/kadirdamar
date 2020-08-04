@@ -1,0 +1,113 @@
+html,
+body,
+#cover{
+    height: 100%;
+}
+#cover{
+    background: url('./Images/CoverPhoto.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.fixed-top{
+    max-width: 1140px;
+    margin: 20px auto;
+}
+
+h1   {
+    margin-top: 35%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:48px;
+    margin-bottom: 1%;
+}
+h2{
+    color: white;
+}
+a.nav-link{
+    
+    color:red!important;
+    font-weight: bold;
+}
+a.nav-link:hover{
+    color: white!important;
+}
+#tercihler{
+    padding: 120px 0;
+}
+.ozellikler-ust h4{
+    font-size: 48px;
+    font-weight: bold;
+    
+}
+.item-circle{
+    border: 1px solid red;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    border-radius: 150px;    
+}
+.tercihler-icerik i{
+    line-height: 50px;
+}
+.tercihler-icerik h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+}
+#urunler{
+    background-color: #f7f7f7;
+    padding: 120px 0;
+}
+.urunler-ust h3 {
+    font-size: 48px;
+    font-weight: bold;
+
+}
+.card {
+    border-style: none;
+}
+.urunler-ust p {
+    font-size: 17px;
+    color: #777;
+}
+.urunler-icerik .row{
+    margin-bottom: 20px;
+    
+}
+#contact{
+    background-color: #f7f7f7;
+    padding: 120px 0;
+}
+.contact-ust h4{
+    font-size: 40px;
+    font-weight: bold;
+}
+.contact-icerik{
+    margin-top: 50px;
+}
+#galeri{
+    
+        background-color: #f7f7f7;
+        padding: 120px 0;
+    
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  #Hakkimda{
+    
+    background-color: #f7f7f7;
+    padding: 120px 0;
+
+}
+.Hakkimda-ust h4{
+    font-size: 48px;
+    font-weight: bold;
+}
